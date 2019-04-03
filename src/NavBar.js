@@ -9,9 +9,6 @@ class NavBar extends Component {
         return (
             <ul>
             <li>
-                <Link to="/">Home</Link>
-            </li>
-            <li>
                 <Link to="/chart">Chart</Link>
             </li>
             <li>
